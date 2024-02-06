@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ECE 374 Videos
+title: ML
 email: kevinlim9171@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Site of ECE 374 Videos. ECE 374 is a course in UIUC on Algorithms and Models of Computations. By Kevin Lim.
-baseurl: "/ECE374_Video" # the subpath of your site, e.g. /blog
+  Site of ML. By Kevin Lim.
+baseurl: "/ML" # the subpath of your site, e.g. /blog
 url: "https://kevtool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kevtool
 linkedin_username: kevin-lim-b01021203

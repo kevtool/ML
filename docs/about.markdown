@@ -18,5 +18,5 @@ permalink: /about/
 
 <p align="center">Computer & Software Engineer</p>
 
-<p align="center">Master of Science in Computer Science, University of Southern California</p>
+<p align="center">Master of Science in Computer Science, University of Southern California (Ongoing)</p>
 <p align="center">Bachelor of Science in Computer Engineering, University of Illinois-Urbana Champaign</p>
